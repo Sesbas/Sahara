@@ -2016,7 +2016,7 @@ body {
 #love-message {
   display: none;
   position: fixed;
-  top: 40%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 90%;
@@ -2034,7 +2034,7 @@ body {
 #love-message2 {
   display: none;
   position: fixed;
-  top:40%;
+  top:45%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 90%;
